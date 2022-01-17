@@ -4,7 +4,7 @@ Presentation of a replica of the Instagram website, working with basic html and 
 
 <!-- <img src="/assets/my-wallet-usage.gif" /> -->
 
-Try it out now at https://custom-instagram-react.vercel.app/
+Try it out now at https://instagram-react-ruineto-dev.vercel.app/
 
 ## About
 
